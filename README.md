@@ -1,2 +1,2 @@
 # DC-FDM
-DC-foundtaion model training and testing
+DC-foundation model training and testing.
